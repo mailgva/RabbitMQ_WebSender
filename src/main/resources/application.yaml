@@ -1,0 +1,3 @@
+rabbitmq:
+  queueName: spring-boot
+  topicExchangeName: spring-boot-exchange
